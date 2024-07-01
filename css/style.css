@@ -1,0 +1,36 @@
+.container {
+    width: 1700px;
+    margin: 0 auto;
+}
+
+#background-booleaner
+ {
+    background: url(../img/pattern.png);
+    background-color: aqua;
+    height: 215px;
+}
+
+#Title {
+    padding-bottom: 1px;
+    margin-bottom: 1px;
+    font-weight: lighter;
+    font-size:68px
+    
+}
+
+#logo {
+    padding-top: 50px;
+    padding-left: 0;
+    height: 110px;  
+}
+
+#author {
+    font-size: 25px;
+    display: block;
+}
+
+#date {
+    display: block;
+    padding-top: 5px;
+}
+
