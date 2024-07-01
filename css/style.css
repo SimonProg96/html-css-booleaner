@@ -10,11 +10,11 @@
     height: 215px;
 }
 
-#Title {
+#title {
     padding-bottom: 1px;
     margin-bottom: 1px;
     font-weight: lighter;
-    font-size:68px
+    font-size:65px
     
 }
 
@@ -24,13 +24,50 @@
     height: 110px;  
 }
 
-#author {
-    font-size: 25px;
+small{
     display: block;
 }
 
+#author {
+    font-size: 25px;
+}
+
 #date {
-    display: block;
     padding-top: 5px;
+    padding-bottom: 30px;
+}
+
+#tim-berners-lee {
+    width: 65%;
+}
+
+#second-photo{
+    padding-bottom: 20px;
+}
+
+span {
+    background-color: yellow;
+}
+
+table, .table th, .table td, .table thead, .table tbody, .table tfoot{
+    text-align: left;
+    border-collapse: separate;
+    border: 1px solid white;
+}
+
+thead {
+    height: 10%;
+    background-color:aqua
+}
+
+h3 {
+    color: grey;
+}
+
+footer {
+    display: block;
+}
+.you-might-be-interested {
+    display: block;
 }
 
